@@ -5,6 +5,12 @@ public class Fab {
 	}
 	
 	public static long f(int index) {
+			public static long f(int index) {
+		if(index<1) {
+			System.out.println("死了死了死了");
+			return;
+		}
+		
 		if(index==1||index==2) {
 			return 1;
 		}
