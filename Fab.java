@@ -1,4 +1,4 @@
-//FibonacciÊıÁĞ£º1,1,2,3,5,8£¬...µÚ40¸öÊıµÄÖµ   £¨·Çµİ¹éµ÷ÓÃ£©
+//Fibonacciæ•°åˆ—ï¼š1,1,2,3,5,8ï¼Œ... æ±‚ç¬¬40ä¸ªæ•°çš„å€¼   ï¼ˆéé€’å½’è°ƒç”¨ï¼‰
 public class Fab {
 	public static void main(String[] args) {
 		System.out.println(f(40));
