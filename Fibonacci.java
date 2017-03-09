@@ -1,5 +1,5 @@
-//FibonacciÊýÁÐ£º1,1,2,3,5,8£¬...µÚ40¸öÊýµÄÖµ   £¨µÝ¹éµ÷ÓÃ£©
-//ÊýÁÐÂú×ãµÝÍÆ¹«Ê½£ºF1=1  F2=1    Fn=F(n-1)-F(n-2) (n>2)
+//Fibonacciæ•°åˆ—ï¼š1,1,2,3,5,8ï¼Œ...ç¬¬40ä¸ªæ•°çš„å€¼   ï¼ˆé€’å½’è°ƒç”¨ï¼‰
+//æ•°åˆ—æ»¡è¶³é€’æŽ¨å…¬å¼ï¼šF1=1  F2=1    Fn=F(n-1)+F(n-2) (n>2)
 public class Fibonacci {
 	public static void main(String[] args) {
 		System.out.println(f(40));
