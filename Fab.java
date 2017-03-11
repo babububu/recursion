@@ -8,7 +8,7 @@ public class Fab {
 			
 		if(index<1) {
 			System.out.println("死了死了死了");
-			return;
+			return -1;
 		}
 		
 		if(index==1||index==2) {
